@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ghost-OTPBOT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ghost-OTPBOT is the most advanced and versatile OTP & SMS capture bot that is capable of getting OTP & SMS codes from victims by impersonating a company or bank. You can use this to get OTP for logins, banks, credit cards, apple pay, and more.
 
-<!---
-ghost-OTPBOT/ghost-OTPBOT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Join https://t.me/joinchat/97w3Avm8YtNiODNk for free trial.
+
+## About ghost-OTPBOT
+- Multiple modes to choose from
+- Unique text-to-speech each call
+- Multiple languages supported
+- Multiple countries supported
+
+
+Join https://t.me/joinchat/97w3Avm8YtNiODNk for free trial.

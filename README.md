@@ -9,5 +9,5 @@ Join https://t.me/joinchat/97w3Avm8YtNiODNk for free trial.
 - Multiple languages supported
 - Multiple countries supported
 
-
-Join https://t.me/joinchat/97w3Avm8YtNiODNk for free trial.
+See bot in action here --> https://youtu.be/vwzR6A23At8
+Join https://t.me/joinchat/97w3Avm8YtNiODNk for free 20 minutes trial.
